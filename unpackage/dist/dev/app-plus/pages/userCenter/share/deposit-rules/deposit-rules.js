@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"rules-text{ padding-top: ",[0,80],"; }\n.",[1],"rules-btn wx-button{ width: ",[0,250],"; }\n",],undefined,{path:"./pages/userCenter/share/deposit-rules/deposit-rules.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/userCenter/share/deposit-rules/deposit-rules.wxml') } }));

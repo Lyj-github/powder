@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"border-b{ border-radius: ",[0,5],"; border: #ccc solid ",[0,2],"; }\n",],undefined,{path:"./pages/userCenter/service/service.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/userCenter/service/service.wxml') } }));

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"btnSty{ margin-top: ",[0,80],"; width: ",[0,400],"; background-color: rgba(255,0,0,.55); }\n",],undefined,{path:"./pages/userCenter/share/distributionCommission/distributionCommission.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/userCenter/share/distributionCommission/distributionCommission.wxml') } }));

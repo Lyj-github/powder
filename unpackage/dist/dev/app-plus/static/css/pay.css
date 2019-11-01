@@ -1,0 +1,33 @@
+.line{
+	height: 1rpx;
+	width: 75%;
+	background-color: rgba(0,0,0,0.3);
+	margin-left: 80rpx;
+}
+.view-pay{
+	height: 350rpx;	
+}
+.view-input{
+	height: 50rpx;
+	/* border-bottom: 1px solid #CCCCCC; */
+	
+}
+.pay-button{
+	margin-top: 30rpx;
+	width: 50%;
+}
+.input-sty{
+	height: 60rpx;
+	width: 250rpx;
+}
+.pay-text{
+	height: 200rpx;
+}
+@media (min-width: 768px){
+	.pay-text,.pay-text1{
+		font-size: 18rpx;
+	}
+	.view-input{
+		height: 107rpx;
+	}
+}

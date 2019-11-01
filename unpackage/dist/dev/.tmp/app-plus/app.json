@@ -1,0 +1,94 @@
+{
+  "pages": [
+    "pages/main/main",
+    "pages/login/login",
+    "pages/reg/reg",
+    "pages/pwd/pwd",
+    "pages/user/user",
+    "pages/renwu/renwu",
+    "pages/fans/fans",
+    "pages/userCenter/qianbao/qianbao",
+    "pages/userCenter/qianbao/money-details/money-details",
+    "pages/userCenter/chongzhi/chongzhi",
+    "pages/userCenter/tixian/tixian",
+    "pages/search/search",
+    "pages/renwu/sendTask/sendTask",
+    "pages/renwu/mytask/mytask",
+    "pages/hufen-manage/hufen-manage",
+    "pages/hufen-manage/hufen-dating/hufen-dating",
+    "pages/pay-pwd/pay-pwd",
+    "pages/userCenter/userInfo/userInfo",
+    "pages/userCenter/userCenter",
+    "pages/deal/deal",
+    "pages/renwu/renwu-details/renwu-details",
+    "pages/hufen-manage/hufen-renzheng/hufen-renzheng",
+    "pages/userCenter/tixian/tixian-record/tixian-record",
+    "pages/userCenter/tixian/tixian-success/tixian-success",
+    "pages/userCenter/chongzhi/chongzhi-success/chongzhi-success",
+    "pages/phonelogin/phonelogin",
+    "pages/hufen-manage/Management-account/Management-account",
+    "pages/hufen-manage/hufen-rules/hufen-rules",
+    "pages/hufen-manage/hufen-renzheng/information-write/information-write",
+    "pages/userCenter/share/share",
+    "pages/userCenter/share/distributionCommission/distributionCommission",
+    "pages/userCenter/share/commissionDetails/commissionDetails",
+    "pages/renwu/sendTask/task-details/task-details",
+    "pages/renwu/sendTask/task-details/taskCase/taskCase",
+    "pages/userCenter/service/service",
+    "pages/userCenter/clause/clause",
+    "pages/renwu/sendTask/task-details/finishTask/finishTask",
+    "pages/renwu/sendTask/addSendTask",
+    "pages/userCenter/share/deposit-rules/deposit-rules"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#fbf9fe"
+  },
+  "tabBar": {
+    "color": "#c1c1c1",
+    "selectedColor": "#3675FF",
+    "backgroundColor": "#FFFFFF",
+    "list": [
+      {
+        "pagePath": "pages/main/main",
+        "text": "首页",
+        "iconPath": "static/img/home.png",
+        "selectedIconPath": "static/img/homeHL.png"
+      },
+      {
+        "pagePath": "pages/renwu/renwu",
+        "text": "任务大厅",
+        "iconPath": "static/img/renwu.png",
+        "selectedIconPath": "static/img/renwuHL.png"
+      },
+      {
+        "pagePath": "pages/deal/deal",
+        "text": "担保交易",
+        "iconPath": "static/img/deal.png",
+        "selectedIconPath": "static/img/dealHL.png"
+      },
+      {
+        "pagePath": "pages/hufen-manage/hufen-manage",
+        "text": "互粉功能",
+        "iconPath": "static/img/fans.png",
+        "selectedIconPath": "static/img/fansHL.png"
+      },
+      {
+        "pagePath": "pages/userCenter/userCenter",
+        "text": "我的",
+        "iconPath": "static/img/user.png",
+        "selectedIconPath": "static/img/userHL.png"
+      }
+    ]
+  },
+  "nvueCompiler": "weex",
+  "renderer": "auto",
+  "splashscreen": {
+    "alwaysShowBeforeRender": true,
+    "autoclose": false
+  },
+  "appname": "hufen(互粉)",
+  "compilerVersion": "2.3.7",
+  "usingComponents": {}
+}

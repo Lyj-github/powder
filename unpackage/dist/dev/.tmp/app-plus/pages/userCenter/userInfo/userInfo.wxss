@@ -1,0 +1,27 @@
+
+.img_view {
+	height: 150rpx;
+}
+.other_view {
+	height: 100rpx;
+	margin-top: 2rpx;
+}
+.widget__arrow {
+	margin-right: 30rpx;
+	width: 32rpx;
+	height: 32rpx;
+	float: right;
+	margin-top: 34rpx;
+}
+
+/* 按钮 */
+.button-save{
+	padding-top: 150rpx;
+	bottom:120rpx;
+	margin: 0 auto;
+	width: 600rpx;
+}
+.button-save button{
+	width: 500rpx;
+}
+

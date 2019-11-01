@@ -1,0 +1,1 @@
+<view class="w100 bg-white view-img"><view class="d-cc"><uni-icon vue-id="1" type="contact-filled" size="150" color="#999999" bind:__l="__l"></uni-icon></view><view class="btn-renz d-c mt-40"><button class="c-white bg-main f-14" type="button">开始认证</button></view></view>

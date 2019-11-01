@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "注册",
+  "usingComponents": {
+    "lausir-code-dialog": "/components/lausir-codedialog/lausir-codedialog"
+  }
+}

@@ -1,0 +1,8 @@
+
+.btn-renz button{
+	width: 300rpx;
+}
+.view-img{
+	padding-top: 200rpx;
+}
+

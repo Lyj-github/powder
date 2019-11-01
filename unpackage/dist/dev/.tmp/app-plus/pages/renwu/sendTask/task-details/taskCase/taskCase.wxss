@@ -1,0 +1,31 @@
+
+.line {
+	width: 7rpx;
+	height: 35rpx;
+	background-color: #79A4E1;
+}
+.textline-h {
+	line-height: 60rpx;
+}
+.task-img {
+	padding: 20rpx 80rpx 0 80rpx;
+	width: 590rpx;
+	height: 310rpx;
+}
+
+/* button */
+.btn-view {}
+.btn-view button {
+	width: 200rpx;
+}
+
+/* input */
+.inputSty {
+	width: 590rpx;
+	height: 80rpx;
+}
+.pd-b {
+
+	padding-bottom: 120rpx;
+}
+

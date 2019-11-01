@@ -1,0 +1,6 @@
+
+.border-b{
+	 border-radius: 5rpx;
+	 border: #ccc solid 2rpx;
+}
+

@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "我的钱包",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "详情",
+        "fontWeight": "bold",
+        "fontSize": "32rpx"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-icon": "/components/m-icon/m-icon"
+  }
+}

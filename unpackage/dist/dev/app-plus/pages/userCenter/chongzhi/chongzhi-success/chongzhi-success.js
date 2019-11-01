@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"success-view{ width: ",[0,600],"; height: ",[0,240],"; padding-top: ",[0,100],"; border: 1px solid rgba(0,0,0,0.3); }\n.",[1],"view-all{ margin-top: ",[0,250],"; }\n",],undefined,{path:"./pages/userCenter/chongzhi/chongzhi-success/chongzhi-success.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/userCenter/chongzhi/chongzhi-success/chongzhi-success.wxml') } }));

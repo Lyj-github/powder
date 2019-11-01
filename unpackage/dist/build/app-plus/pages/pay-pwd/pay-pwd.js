@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"pay-wiew { height: ",[0,500],"; }\n.",[1],"view-all{ display: -webkit-box; display: -webkit-flex; display: -ms-flexbox; display: flex; -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; margin-top: ",[0,120],"; }\n",],undefined,{path:"./pages/pay-pwd/pay-pwd.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/pay-pwd/pay-pwd.wxml') } }));

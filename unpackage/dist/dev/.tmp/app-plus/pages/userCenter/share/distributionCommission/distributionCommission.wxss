@@ -1,0 +1,8 @@
+
+.btnSty{
+	margin-top: 80rpx;
+	width: 400rpx;
+	background-color: rgba(255,0,0,.55);
+}
+
+

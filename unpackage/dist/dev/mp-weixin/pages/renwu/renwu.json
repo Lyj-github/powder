@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "任务大厅",
+  "usingComponents": {
+    "uni-icon": "/components/m-icon/m-icon"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "任务大厅",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "发布任务",
+        "fontWeight": "bold",
+        "fontSize": "31rpx"
+      }
+    ]
+  },
+  "usingComponents": {
+    "uni-icon": "/components/m-icon/m-icon"
+  }
+}

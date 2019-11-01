@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "互粉认证",
+  "usingComponents": {
+    "uni-icon": "/components/m-icon/m-icon"
+  }
+}

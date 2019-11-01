@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "发布任务",
+  "usingComponents": {
+    "uni-icon": "/components/m-icon/m-icon"
+  }
+}

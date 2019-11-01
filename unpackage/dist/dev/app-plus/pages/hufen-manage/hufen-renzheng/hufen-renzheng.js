@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"btn-renz wx-button{ width: ",[0,300],"; }\n.",[1],"view-img{ padding-top: ",[0,200],"; }\n",],undefined,{path:"./pages/hufen-manage/hufen-renzheng/hufen-renzheng.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/hufen-manage/hufen-renzheng/hufen-renzheng.wxml') } }));

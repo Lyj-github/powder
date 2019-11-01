@@ -1,0 +1,1 @@
+<view class="w100 d-c view-all"><view class="t-c f-16 fw-b success-view bg-white"><view class="d-c">充值成功！</view><navigator class="d-c mt-40" url="../../qianbao/qianbao" hover-class="navigator-hover">查看余额</navigator></view></view>

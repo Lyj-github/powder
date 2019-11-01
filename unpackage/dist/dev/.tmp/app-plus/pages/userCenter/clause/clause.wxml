@@ -1,0 +1,1 @@
+<view class="p-box w100"><view class="w100 bg-white pt-20"><view class="f-13 d-cc w100">服务条款正文</view><view class="fs-1 p-box">{{''+content+''}}</view></view></view>

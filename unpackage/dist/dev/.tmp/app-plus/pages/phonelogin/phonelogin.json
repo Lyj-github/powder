@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "手机号登录",
+  "usingComponents": {
+    "lausir-code-dialog": "/components/lausir-codedialog/lausir-codedialog"
+  }
+}

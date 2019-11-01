@@ -1,0 +1,9 @@
+
+.rules-text{
+	padding-top: 80rpx;
+}
+.rules-btn button{
+	width: 250rpx;
+}
+
+

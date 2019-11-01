@@ -1,0 +1,314 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页,
+		{
+			"path": "pages/main/main",
+			"style": {
+				"navigationBarTitleText": "互粉首页"
+			}
+		}, {
+			"path": "pages/login/login",
+			"style": {
+				"navigationBarTitleText": "账号登录"
+			}
+		}, {
+			"path": "pages/reg/reg",
+			"style": {
+				"navigationBarTitleText": "注册"
+			}
+		}, {
+			"path": "pages/pwd/pwd",
+			"style": {
+				"navigationBarTitleText": "找回密码"
+			}
+		}, {
+			"path": "pages/user/user",
+			"style": {
+				"navigationBarTitleText": "我的"
+			}
+		}, {
+			"path": "pages/renwu/renwu",
+			"style": {
+				"navigationBarTitleText": "任务大厅",
+				"app-plus": {
+					"bounce": "none", //关闭窗口回弹效果
+					"titleNView": {
+						"buttons": [ //原生标题栏按钮配置,
+							{
+								"text": "发布任务", //原生标题栏增加分享按钮，点击事件可通过页面的 onNavigationBarButtonTap 函数进行监听								
+								"fontWeight": "bold",
+								"fontSize": "31rpx"
+								
+
+							}
+						]
+					}
+				}
+			}
+		}, {
+			"path": "pages/fans/fans",
+			"style": {
+				"navigationBarTitleText": "互粉管理"
+			}
+		}, {
+			"path": "pages/userCenter/qianbao/qianbao",
+			"style": {
+				"navigationBarTitleText": "我的钱包",
+				"app-plus": {
+					"bounce": "none", //关闭窗口回弹效果
+					"titleNView": {
+						"buttons": [ //原生标题栏按钮配置,
+							{
+								"text": "详情", //原生标题栏增加分享按钮，点击事件可通过页面的 onNavigationBarButtonTap 函数进行监听								
+								"fontWeight": "bold",
+								"fontSize": "32rpx"
+
+							}
+						]
+					}
+				}
+			}
+		}, {
+			"path": "pages/userCenter/qianbao/money-details/money-details",
+			"style": {
+				"navigationBarTitleText": "明细"
+			}
+		}, {
+			"path": "pages/userCenter/chongzhi/chongzhi",
+			"style": {
+				"navigationBarTitleText": "充值"
+			}
+		}, {
+			"path": "pages/userCenter/tixian/tixian",
+			"style": {
+				"navigationBarTitleText": "提现",
+				"app-plus": {
+					"bounce": "none", //关闭窗口回弹效果
+					"titleNView": {
+						"buttons": [ //原生标题栏按钮配置,
+							{
+								"text": "记录", //原生标题栏增加分享按钮，点击事件可通过页面的 onNavigationBarButtonTap 函数进行监听								
+								"fontWeight": "bold",
+								"fontSize": "32rpx"
+
+							}
+						]
+					}
+				}
+
+			}
+		}, {
+			"path": "pages/search/search",
+			"style": {
+				"navigationBarTitleText": "搜索"
+			}
+		}, {
+			"path": "pages/renwu/sendTask/sendTask",
+			"style": {
+				"navigationBarTitleText": "发布任务",
+				"app-plus": {
+					"bounce": "none", //关闭窗口回弹效果
+					"titleNView": {
+						"buttons": [ //原生标题栏按钮配置,
+							{
+								"text": "我的任务", //原生标题栏增加分享按钮，点击事件可通过页面的 onNavigationBarButtonTap 函数进行监听								
+								"fontWeight": "bold",
+								"fontSize": "32rpx"
+								
+
+							}
+						]
+					}
+				}
+			}
+		}, {
+			"path": "pages/renwu/mytask/mytask",
+			"style": {
+				"navigationBarTitleText": "我的任务"
+			}
+		}, {
+			"path": "pages/hufen-manage/hufen-manage",
+			"style": {
+				"navigationBarTitleText": "互粉管理"
+			}
+		}, {
+			"path": "pages/hufen-manage/hufen-dating/hufen-dating",
+			"style": {
+				"navigationBarTitleText": "互粉大厅"
+			}
+		}, {
+			"path": "pages/pay-pwd/pay-pwd",
+			"style": {
+				"navigationBarTitleText": "支付"
+			}
+		}, {
+			"path": "pages/userCenter/userInfo/userInfo",
+			"style": {
+				"navigationBarTitleText": "修改资料"
+
+			}
+		}, {
+			"path": "pages/userCenter/userCenter",
+			"style": {
+				"navigationBarTitleText": "个人中心"
+				
+				
+				
+				
+			}
+		}, {
+			"path": "pages/deal/deal",
+			"style": {
+				"navigationBarTitleText": "担保交易"
+			}
+		}, {
+			"path": "pages/renwu/renwu-details/renwu-details",
+			"style": {
+				"navigationBarTitleText": "任务详情"
+			}
+		}, {
+			"path": "pages/hufen-manage/hufen-renzheng/hufen-renzheng",
+			"style": {
+				"navigationBarTitleText": "互粉认证"
+			}
+		}, {
+			"path": "pages/userCenter/tixian/tixian-record/tixian-record",
+			"style": {
+				"navigationBarTitleText": "提现记录"
+			}
+		}, {
+			"path": "pages/userCenter/tixian/tixian-success/tixian-success",
+			"style": {
+				"navigationBarTitleText": "提现成功"
+			}
+		}, {
+			"path": "pages/userCenter/chongzhi/chongzhi-success/chongzhi-success",
+			"style": {
+				"navigationBarTitleText": "充值成功"
+			}
+		}
+
+		, {
+			"path": "pages/phonelogin/phonelogin",
+			"style": {
+				"navigationBarTitleText": "手机号登录"
+			}
+		}, {
+			"path": "pages/hufen-manage/Management-account/Management-account",
+			"style": {
+				"navigationBarTitleText": "管理账号"
+			}
+		}, {
+			"path": "pages/hufen-manage/hufen-rules/hufen-rules",
+			"style": {
+				"navigationBarTitleText": "互粉规则"
+			}
+		}, {
+			"path": "pages/hufen-manage/hufen-renzheng/information-write/information-write",
+			"style": {
+				"navigationBarTitleText": "资料填写"
+			}
+		}, {
+			"path": "pages/userCenter/share/share",
+			"style": {
+				"navigationBarTitleText": "分享赚钱"
+			}
+		}
+	    ,{
+            "path" : "pages/userCenter/share/distributionCommission/distributionCommission",
+            "style" : {
+				"navigationBarTitleText":"分销佣金"
+			}
+        }
+        ,{
+            "path" : "pages/userCenter/share/commissionDetails/commissionDetails",
+            "style" : {
+				"navigationBarTitleText":"佣金明细"
+			}
+        }
+        ,{
+            "path" : "pages/renwu/sendTask/task-details/task-details",
+            "style" : {
+				"navigationBarTitleText":"任务详情"
+			}
+        }
+        ,{
+            "path" : "pages/renwu/sendTask/task-details/taskCase/taskCase",
+            "style" : {
+				"navigationBarTitleText":"任务情况"
+			}
+        },{
+            "path" : "pages/userCenter/service/service",
+            "style" : {
+				"navigationBarTitleText":"联系客服"
+			}
+        },{
+            "path" : "pages/userCenter/clause/clause",
+            "style" : {
+				"navigationBarTitleText":"服务条款"
+			}
+        }
+        ,{
+            "path" : "pages/renwu/sendTask/task-details/finishTask/finishTask",
+            "style" : {
+				"navigationBarTitleText":"任务详情"
+			}
+        },{
+            "path" : "pages/renwu/sendTask/addSendTask",
+            "style" : {
+				"navigationBarTitleText":"发布任务"
+			}
+        }
+        ,{
+            "path" : "pages/userCenter/share/deposit-rules/deposit-rules",
+            "style" : {
+				"navigationBarTitleText":"提现规则"
+			}
+        }
+    ],
+	"tabBar": {
+		"color": "#c1c1c1",
+		"selectedColor": "#3675FF",
+		"backgroundColor": "#FFFFFF",
+		"list": [{
+			"pagePath": "pages/main/main",
+			"text": "首页",
+			"iconPath": "static/img/home.png",
+			"selectedIconPath": "static/img/homeHL.png"
+		}, {
+			"pagePath": "pages/renwu/renwu",
+			"text": "任务大厅",
+			"iconPath": "static/img/renwu.png",
+			"selectedIconPath": "static/img/renwuHL.png"
+		}, {
+			"pagePath": "pages/deal/deal",
+			"text": "担保交易",
+			"iconPath": "static/img/deal.png",
+			"selectedIconPath": "static/img/dealHL.png"
+		}, {
+			"pagePath": "pages/hufen-manage/hufen-manage",
+			"text": "互粉功能",
+			"iconPath": "static/img/fans.png",
+			"selectedIconPath": "static/img/fansHL.png"
+		}, {
+			"pagePath": "pages/userCenter/userCenter",
+			"text": "我的",
+			"iconPath": "static/img/user.png",
+			"selectedIconPath": "static/img/userHL.png"
+			
+		}]
+	},
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarBackgroundColor": "#fff",
+		"backgroundColor": "#fbf9fe"
+		
+	},
+	"condition": { //模式配置，仅开发期间生效
+		"current": 0, //当前激活的模式(list 的索引项)
+		"list": [{
+			"name": "", //模式名称
+			"path": "", //启动页面，必选
+			"query": "" //启动参数，在页面的onLoad函数里面得到
+		}]
+	}
+}

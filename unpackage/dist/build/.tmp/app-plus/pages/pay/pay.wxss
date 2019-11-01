@@ -1,0 +1,32 @@
+.pay-text1{
+	width: 30%;
+}
+.pay-view-r{
+	width: 70%
+}
+.view-pay{
+	height: 400rpx;
+}
+.view-input{
+	height: 50rpx;
+	border-bottom: 1px solid #CCCCCC;
+}
+.pay-button{
+	margin-top: 30rpx;
+	width: 50%;
+}
+.input-sty{
+	height: 60rpx;
+}
+.pay-text{
+	height: 200rpx;
+}
+@media (min-width: 768px){
+.pay-text,.pay-text1{
+		font-size: 18px;
+}
+.view-input{
+		height: 107px;
+}
+}
+

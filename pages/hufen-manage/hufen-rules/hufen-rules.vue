@@ -1,0 +1,38 @@
+<template>
+	<view class="w100 bg-white f-16">
+		<view class="rules-text pt-50 pl-40 pr-40">	
+		<view class="mt-40">1.互粉规则介绍，如绑定微信号用于提现，主动添加20个列表微信，就可以激活自己的涨粉功能</view>
+		<view class="mt-40">2.普通用户：当自己主动被人添加50次自己会被列表下架需要在主动添加50个好友才可以重新上架列表</view>
+		<view class="mt-40">3.VIP会员：200次被动添加就会自动下架，需要再次主动添加50个好友才可以重新上架。VIP会员获取方式：一，直接购买，微信支付宝支付。二，普通用户，邀请满30人，即可自动成为VIP会员。</view>
+		</view>
+			<view class="pt-50 rules-btn d-bf pl-40 pr-40">
+				<button type="button" class="c-white bg-main">购买会员</button>
+				<button type="button" class="c-white bg-main">邀请好友</button>
+			</view>
+	</view>
+</template>
+
+<script>
+	export default {
+		data() {
+			return {
+				
+			}
+		},
+		methods: {
+			
+		}
+	}
+</script>
+
+<style>
+	.rules-text{
+		padding-top: 80rpx;
+		
+		
+	}
+	.rules-btn button{
+		width: 250rpx;
+	}
+
+</style>

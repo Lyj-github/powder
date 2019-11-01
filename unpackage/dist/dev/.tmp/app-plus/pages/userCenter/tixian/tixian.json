@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "提现",
+  "bounce": "none",
+  "titleNView": {
+    "buttons": [
+      {
+        "text": "记录",
+        "fontWeight": "bold",
+        "fontSize": "32rpx"
+      }
+    ]
+  },
+  "usingComponents": {}
+}
